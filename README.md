@@ -22,14 +22,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&theme=tokyonight" alt="Kavin's stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-</p>
-
----
 
 ### 🎮 Fun Facts
 - ♟️ Big fan of **chess** (watch out, I’m plotting three moves ahead)  
@@ -39,9 +31,9 @@
 ---
 
 ### 📫 How to reach me
-- 💌 Email: **your.email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 🌐 Portfolio: [your-portfolio-link](#)  
+- 💌 Email: rkavin975rk@gmail.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/kavin-r-451338291/)  
+
 
 ---
 
