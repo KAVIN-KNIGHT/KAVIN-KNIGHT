@@ -32,7 +32,7 @@
 
 ### 📫 How to reach me
 - 💌 Email: rkavin975rk@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/kavin-r-451338291/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/kavin-r-451338291/
 
 
 ---
