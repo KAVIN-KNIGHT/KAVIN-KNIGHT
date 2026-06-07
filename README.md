@@ -1,10 +1,8 @@
-# Hi there 👋, I'm R Kavin
+<h1 align="center">Hey there 👋, I'm R Kavin</h1>
 
 <h3 align="center">🚀 Final-Year Student @ MIT | Full-Stack Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
-</p>
+
 
 ---
 
@@ -137,6 +135,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
+</p>
 
 <p align="center">
   <b>⭐ Code • Create • Conquer ⭐</b>
