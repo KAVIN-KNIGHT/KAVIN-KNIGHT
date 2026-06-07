@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm R Kavin</h1>
-<h3 align="center">🚀 Third-year Student @ MIT | Aspiring Full-Stack & AI Developer</h3>
+<h3 align="center">🚀 FINAL-year Student @ MIT | Aspiring Full-Stack & AI Developer</h3>
 
 ---
 
