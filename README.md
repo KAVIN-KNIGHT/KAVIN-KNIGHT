@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kavin%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Applied%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Building+AI-driven+systems+%E2%80%94+RAG+apps+to+RL+pipelines;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Comic+%26+Webnovel+Reader+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Comic+%26+Webnovel+Reader+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
