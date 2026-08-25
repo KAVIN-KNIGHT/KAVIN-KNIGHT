@@ -25,10 +25,9 @@
 ```yaml
 name: R. Kavin
 role: Final-Year Information Technology Student @ Madras Institute of Technology
-focus: Full-Stack Development • AI/ML • Reinforcement Learning
+focus: Full-Stack Development • AI/ML 
 currently_building: LEO satellite mega-constellation routing system (GAT + LSTM + PPO)
-exploring: [React.js, Next.js, Node.js, Express.js, MongoDB, FastAPI, LangChain, Generative AI, Cloud]
-fun_fact: Can spend hours debugging one missing semicolon ☕
+exploring: React.js, Next.js, Node.js, Express.js, MongoDB, FastAPI, LangChain, Generative AI, Cloud
 ```
 
 <br/>
