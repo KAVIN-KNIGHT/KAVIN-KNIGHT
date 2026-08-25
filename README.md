@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0ea5e9&height=220&section=header&text=Hi%20There,%20I'm%20Kavin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20CS%20Student%20@%20MIT%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0ea5e9&height=220&section=header&text=Hi%20There,%20I'm%20Kavin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20IT%20Student%20@%20MIT%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/kavin-r-451338291/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Training+GNNs+%2B+RL+models+for+my+FYP;Chess+player+%E2%99%9F%EF%B8%8F+%7C+Sketch+artist+%F0%9F%8E%A8+%7C+Gardener+%F0%9F%8C%B1;Always+debugging+one+missing+semicolon+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Training+GNNs+%2B+RL+models+for+my+FYP;Shipping+RAG+pipelines+with+LangChain+%2B+Gemini;Chess+player+%E2%99%9F%EF%B8%8F+%7C+Sketch+artist+%F0%9F%8E%A8+%7C+Gardener+%F0%9F%8C%B1;Always+debugging+one+missing+semicolon+%E2%98%95" alt="Typing SVG" />
 
 </div>
 
@@ -24,10 +24,10 @@
 
 ```yaml
 name: R. Kavin
-role: Final-Year Computer Science Student @ MIT
+role: Final-Year Information Technology Student @ Madras Institute of Technology
 focus: Full-Stack Development • AI/ML • Reinforcement Learning
 currently_building: LEO satellite mega-constellation routing system (GAT + LSTM + PPO)
-exploring: [React.js, Next.js, Node.js, Express.js, MongoDB, Generative AI, Cloud]
+exploring: [React.js, Next.js, Node.js, Express.js, MongoDB, FastAPI, LangChain, Generative AI, Cloud]
 fun_fact: Can spend hours debugging one missing semicolon ☕
 ```
 
@@ -40,7 +40,7 @@ fun_fact: Can spend hours debugging one missing semicolon ☕
 <td valign="top" width="50%">
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" /></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" /></p>
 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,vite,tailwind" /></p>
@@ -49,7 +49,7 @@ fun_fact: Can spend hours debugging one missing semicolon ☕
 <td valign="top" width="50%">
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></p>
 
 **Database & Tools**
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" /></p>
@@ -66,30 +66,38 @@ fun_fact: Can spend hours debugging one missing semicolon ☕
 <tr>
 <td width="33%" valign="top">
 
-### 📈 AI Stock Market Predictor
-AI-powered price prediction with a risk analysis dashboard and an integrated financial chatbot.
+### 🧪 Toxicity Prediction System
+Hybrid toxicity classifier combining Random Forest, AdaBoost, and Graph Neural Networks across 12 Tox21 endpoints, with molecular visualization and real-time predictions.
 
-`React` `Node.js` `Python` `ML`
+`Python` `Flask` `React` `Scikit-learn` `RDKit` `GNN`
 
 </td>
 <td width="33%" valign="top">
 
 ### 💊 MediKart
-Full-stack e-commerce pharmacy platform with auth, admin panel, and product management.
+Full-stack medical e-commerce platform with JWT-based auth, role-based access control, and an admin dashboard for inventory management.
 
-`React` `Node.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB`
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI Chat Application
-Multi-personality chat app with voice interaction and persistent chat history.
+### 📄 AI-Assisted RAG Document Reader
+Full-stack RAG app for semantic document retrieval and context-aware Q&A, with drag-and-drop ingestion, live chat, and Markdown/PDF export.
 
-`OpenAI API` `React` `Node.js`
+`React.js` `FastAPI` `ChromaDB` `LangChain` `Gemini API`
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🎓 Certifications
+
+- 📊 Python for Data Science — NPTEL (2025)
+- 🧠 Neural Networks and Deep Learning — Coursera (2025)
+- 🤖 Generative AI with LLMs — Coursera (2026)
 
 <br/>
 
