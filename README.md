@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0ea5e9&height=220&section=header&text=Hi%20There,%20I'm%20Kavin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20IT%20Student%20@%20MIT%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kavin%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Applied%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/kavin-r-451338291/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rkavin975rk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/KAVIN-KNIGHT">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Building+AI-driven+systems+%E2%80%94+RAG+apps+to+RL+pipelines;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Comic+%26+Webnovel+Reader+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Training+GNNs+%2B+RL+models+for+my+FYP;Shipping+RAG+pipelines+with+LangChain+%2B+Gemini;Chess+player+%E2%99%9F%EF%B8%8F+%7C+Sketch+artist+%F0%9F%8E%A8+%7C+Gardener+%F0%9F%8C%B1;Always+debugging+one+missing+semicolon+%E2%98%95" alt="Typing SVG" />
+<a href="mailto:rkavin975rk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rkavin975rk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/kavin-r-451338291/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kavin%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/KAVIN-KNIGHT">
+  <img src="https://img.shields.io/badge/GitHub-KAVIN--KNIGHT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,35 +29,50 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: R. Kavin
-role: Final-Year Information Technology Student @ Madras Institute of Technology
-focus: Full-Stack Development • AI/ML 
-currently_building: LEO satellite mega-constellation routing system (GAT + LSTM + PPO)
-exploring: React.js, Next.js, Node.js, Express.js, MongoDB, FastAPI, LangChain, Generative AI, Cloud
+name:      Kavin R
+role:      Final-Year IT Student @ Madras Institute of Technology, Anna University
+focus:     Full-Stack Development  ·  AI / ML  ·  Applied ML Systems
+cgpa:      8.61
 ```
 
-<br/>
-
-## 🛠️ Tech Stack
+Motivated final-year undergraduate with strong analytical and problem-solving skills, passionate about software development, AI/ML, and applying technology to solve real-world problems.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,vite,tailwind" /></p>
+**🎯 Currently Exploring**
+- 🛰️ Reinforcement learning for network routing
+- 🤖 Graph neural networks & applied ML
+- ⚙️ Full-stack, production-grade systems
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" /></p>
+**🌱 Also Into**
+- 🧠 RAG applications & LLM tooling
+- ♟️ Competitive chess
+- 🎨 Sketching, gardening, webnovels
 
-**Database & Tools**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" /></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Current Focus — Final Year Project
+
+<table>
+<tr>
+<td width="8%" align="center">🛰️</td>
+<td>
+
+### LEO Satellite Mega-Constellation Routing
+`Python` `PyTorch` `GAT` `LSTM` `PPO` `Reinforcement Learning`
+
+- Building a hybrid **GAT + LSTM + PPO** reinforcement learning pipeline for adaptive routing across low-Earth-orbit satellite mega-constellations.
+- Working with large synthetic traffic datasets (~936K rows across 13 scenarios) and running GAT-only ablation studies to isolate model contributions.
+- 🔄 **In progress**
 
 </td>
 </tr>
@@ -61,92 +82,180 @@ exploring: React.js, Next.js, Node.js, Express.js, MongoDB, FastAPI, LangChain, 
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+<h3>🧪 Toxicity Prediction System</h3>
 
-### 🧪 Toxicity Prediction System
-Hybrid toxicity classifier combining Random Forest, AdaBoost, and Graph Neural Networks across 12 Tox21 endpoints, with molecular visualization and real-time predictions.
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
 
-`Python` `Flask` `React` `Scikit-learn` `RDKit` `GNN`
+Hybrid toxicity prediction system combining Random Forest, AdaBoost, and Graph Neural Networks to classify chemical compounds across 12 Tox21 toxicity endpoints, with molecular fingerprinting and SMILES processing.
 
-</td>
-<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/RDKit-3C8DBC?style=flat-square"/>
 
-### 💊 MediKart
-Full-stack medical e-commerce platform with JWT-based auth, role-based access control, and an admin dashboard for inventory management.
-
-`React` `Node.js` `Express.js` `MongoDB`
+<sub>Add your repository link here</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+<h3>🛒 MediKart — Medical E-Commerce</h3>
 
-### 📄 AI-Assisted RAG Document Reader
-Full-stack RAG app for semantic document retrieval and context-aware Q&A, with drag-and-drop ingestion, live chat, and Markdown/PDF export.
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
 
-`React.js` `FastAPI` `ChromaDB` `LangChain` `Gemini API`
+Full-stack MERN medical e-commerce platform with secure user authentication, product catalog management, shopping cart, and order processing.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+<sub>Add your repository link here</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+<h3>📄 AI-Assisted RAG-Based Document Reader</h3>
+
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+
+Full-stack RAG application enabling semantic document retrieval and context-aware Q&A over PDF/DOCX files — SentenceTransformers embeddings, Maximum Marginal Relevance retrieval, and Gemini 2.0 Flash generation, with drag-and-drop ingestion, real-time chat, and Markdown/PDF export in a React 19 interface.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+<sub>Add your repository link here</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🎓 Certifications
-
-- 📊 Python for Data Science — NPTEL (2025)
-- 🧠 Neural Networks and Deep Learning — Coursera (2025)
-- 🤖 Generative AI with LLMs — Coursera (2026)
+</div>
 
 <br/>
 
-## 🎯 Current Goals
-
-- 🔥 Strengthen DSA & Competitive Programming
-- 🛰️ Ship the satellite-routing RL pipeline for my Final Year Project
-- 🤖 Build production-ready AI applications
-- ☁️ Learn Cloud & DevOps
-- 🌍 Contribute to open source
-
-<br/>
-
-## 📊 GitHub Analytics
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<th>🎓 Academics</th>
+<th>🎓 Academics</th>
+<th>🤝 Organization</th>
+<th>🤝 Organization</th>
+</tr>
+<tr>
+<td align="center"><b>B.Tech IT, MIT</b><br/>CGPA 8.61</td>
+<td align="center"><b>Class XII</b><br/>97.3%</td>
+<td align="center"><b>NSS MIT</b><br/>Member</td>
+<td align="center"><b>Foundation For Excellence</b><br/>Scholar</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Neural%20Networks%20%26%20Deep%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Generative%20AI%20with%20LLMs-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDKit-3C8DBC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Web / Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Institution | Degree | Duration |
+|:---|:---|:---:|
+| **Madras Institute of Technology, Anna University** | B.Tech – Information Technology (CGPA 8.61) | 2023 – 2027 |
+| **Prince Matriculation Higher Secondary School** | Class XII — 97.3% | 2020 – 2023 |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVIN-KNIGHT&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAVIN-KNIGHT&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KAVIN-KNIGHT&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
-## 🎮 Beyond Code
-
-| ♟️ Chess | 🎨 Sketching | 🌱 Gardening |
-|:---:|:---:|:---:|
-| Always thinking three moves ahead | Anime character art | Growing something new |
-
-<br/>
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor count"/>
+<a href="mailto:rkavin975rk@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kavin-r-451338291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/KAVIN-KNIGHT"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### ⭐ Code • Create • Conquer ⭐
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0e75b6&height=100&section=footer" width="100%"/>
+<i>"Learn deeply. Build patiently. Ship anyway."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
