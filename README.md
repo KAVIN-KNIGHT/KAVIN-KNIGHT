@@ -17,6 +17,10 @@
 <a href="https://github.com/KAVIN-KNIGHT">
   <img src="https://img.shields.io/badge/GitHub-KAVIN--KNIGHT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<br/>
+<a href="https://leetcode.com/u/sriganesh_73/">
+  <img src="https://img.shields.io/badge/LeetCode-2023506052-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
 
 <br/><br/>
 
@@ -234,8 +238,8 @@ Full-stack RAG application enabling semantic document retrieval and context-awar
 ## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&hide_border=true&count_private=true&bg_color=1A1A1A&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=2EA043&text_color=C9D1D9&border_color=2EA043" />
 
 <br/>
 
