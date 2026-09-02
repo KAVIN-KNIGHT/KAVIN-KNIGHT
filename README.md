@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kavin%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Applied%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a1a6e,100:9d4edd&height=220&section=header&text=Kavin%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Applied%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Comic+%26+Webnovel+Reader+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+MIT%2C+Anna+University;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Chess+Player+%E2%99%9F%EF%B8%8F+%7C+Comic+%26+Webnovel+Reader+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=KAVIN-KNIGHT&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -154,9 +154,9 @@ Full-stack RAG application enabling semantic document retrieval and context-awar
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/COURSERA-Neural%20Networks%20%26%20Deep%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/COURSERA-Generative%20AI%20with%20LLMs-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-9D4EDD?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Neural%20Networks%20%26%20Deep%20Learning-9D4EDD?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Generative%20AI%20with%20LLMs-9D4EDD?style=flat-square&logo=googlescholar&logoColor=white"/>
 
 </div>
 
@@ -231,15 +231,21 @@ Full-stack RAG application enabling semantic document retrieval and context-awar
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAVIN-KNIGHT&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIN-KNIGHT&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVIN-KNIGHT&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVIN-KNIGHT&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6" />
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/2023506052/">
+  <img src="https://leetcard.jacoblin.cool/2023506052?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 </div>
 
 <br/>
@@ -256,6 +262,6 @@ Full-stack RAG application enabling semantic document retrieval and context-awar
 
 <i>"Learn deeply. Build patiently. Ship anyway."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:4a1a6e,100:1a0b2e&height=100&section=footer" width="100%"/>
 
 </div>
